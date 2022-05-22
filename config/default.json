@@ -1,0 +1,4 @@
+{
+   "mongoURI": "mongodb+srv://baclamsung123:qrWYcE1MBYWDYE7N@scheduguard.e2n7y.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+   "jwtSecret": "qrWYcE1MBYWDYE7N"
+}
